@@ -8,3 +8,5 @@ requests==2.25.1
 selenium==3.141.0
 six==1.15.0
 urllib3==1.26.5
+
+#This is requiments.txt which contains all the project dependencies
